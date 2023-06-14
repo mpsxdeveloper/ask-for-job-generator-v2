@@ -1,0 +1,7 @@
+textarea {
+    resize: none;
+}
+
+.card-header, .card-footer {
+    border-radius: 0 !important;
+}
